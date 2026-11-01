@@ -1,0 +1,39 @@
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Configuración de IDE
+.idea/
+.vscode/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Archivos temporales
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+
+# Archivos de sistema
+desktop.ini
+
+# Modelos y checkpoints generados
+*.pth
+*.pt
+*.ckpt
+
+# Resultados generados
+results/*.png
+results/*.jpg
+results/*.jpeg
